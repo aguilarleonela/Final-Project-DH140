@@ -1,7 +1,7 @@
 # Final Project DH140 Assignment 
 
 ## Research Question 
-  > My research topic will focus on veganism in the United States. How has the accesibility of vegan foods contribute to the popularity of the vegan lifetyle in the United States ? Is there a particular reason for this growing trend ? 
+  > My research topic will focus on veganism in the United States. How has the accesibility of vegan foods contribute to the popularity of the vegan lifestyle in the United States ? Is there a particular reason for this growing trend ? 
 
  ## Why it Matters 
   > As a vegan myself, accessibilty to vegan foods can be challenging but rewarding. I believe we should bring more awareness about the vegan lifestyle and its  environmental/health benefits. In addition, the rising trend of veganism goes hand in hand with the increasing number of products offered for people with food allergies or other dietary restrictions. For example, several Americans are lactose intolerant which accounts for the rise of plant-based milk consumption.  This rise in selective eating habits (due to allergies or diet trends)  has created a massive demand and change within the food market. Veganism is becoming a popular life style in the United States. 
